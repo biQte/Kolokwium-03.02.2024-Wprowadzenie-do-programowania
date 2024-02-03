@@ -30,12 +30,12 @@ namespace Kolokwium_03._02._2024_Wprowadzenie_do_programowania
 
         public override void WypiszMaksymalnaPredkosc()
         {
-            Console.WriteLine($"Maksymalna prędkość: {MaksymalnaPredkosc} km/h");
+            Console.WriteLine($"Maksymalna prędkość: {MaksymalnaPredkosc} węzłów");
         }
 
         public override void WypiszLadownosc()
         {
-            Console.WriteLine($"Ładowność: {Ladownosc} ton");
+            Console.WriteLine($"Ładowność: {Ladownosc} kg");
         }
     }
 }

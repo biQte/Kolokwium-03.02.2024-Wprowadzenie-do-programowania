@@ -30,8 +30,9 @@ namespace Kolokwium_03._02._2024_Wprowadzenie_do_programowania
             foreach(String str in ReverseTablicaString)
             { 
                 Console.WriteLine(str);
-                Console.WriteLine();
             }
+
+            Console.WriteLine();
 
             int[] ints = { 1, 2, 3, 4, 5 };
 
@@ -40,9 +41,9 @@ namespace Kolokwium_03._02._2024_Wprowadzenie_do_programowania
             foreach(int intiger in ReverseInts)
             {
                 Console.WriteLine(intiger);
-                Console.WriteLine();
             }
 
+            Console.WriteLine();
 
         }
     }
