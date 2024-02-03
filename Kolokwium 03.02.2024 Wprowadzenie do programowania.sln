@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kolokwium 03.02.2024 Wprowadzenie do programowania", "Kolokwium 03.02.2024 Wprowadzenie do programowania\Kolokwium 03.02.2024 Wprowadzenie do programowania.csproj", "{B62A00FD-CBCB-4C90-B01F-DEE0B0A3018B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B62A00FD-CBCB-4C90-B01F-DEE0B0A3018B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B62A00FD-CBCB-4C90-B01F-DEE0B0A3018B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B62A00FD-CBCB-4C90-B01F-DEE0B0A3018B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B62A00FD-CBCB-4C90-B01F-DEE0B0A3018B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C32FC5DD-6569-4B2E-A7CF-ECED4946E5BA}
+	EndGlobalSection
+EndGlobal
